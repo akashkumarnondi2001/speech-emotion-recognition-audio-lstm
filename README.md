@@ -61,5 +61,5 @@ Download the datasets from their official sources and organize them as follows:
 
 ## 🎓 Thesis Context
 * **Degree:** Bachelor of Science in Computer Science and Engineering (BSc in CSE)
-* **Author:** [Author : Md. Mahbub-Or-Rashid, Akash Kumar Nondi, Abdullah Al Sadnun, Md. Anwar Hussen Wadud, T M Amir Ul Haque Bhuiyan, Md. Saddam Hossain]
-* **Institution:** [Bangladesh University of Business and Technology]
+* **Author:** Author : Md. Mahbub-Or-Rashid, Akash Kumar Nondi, Abdullah Al Sadnun, Md. Anwar Hussen Wadud, T M Amir Ul Haque Bhuiyan, Md. Saddam Hossain
+* **Institution:** Bangladesh University of Business and Technology
